@@ -1,7 +1,4 @@
-# ZX-VPN
-
-# SantzX
-Developer Of ZX VPN
+# SantzX Developer ZX VPN Apk
 
 wait some time until I can publish my application
 
